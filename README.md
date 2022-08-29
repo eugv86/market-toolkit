@@ -238,6 +238,10 @@ There are two general approaches to investing: active and passive. Active invest
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
 - [Tradervue](https://www.tradervue.com/)
+- [StonkJournal](https://stonkjournal.com/)
+- [Trademetria](https://trademetria.com/)
+- [Tradelytics](https://tradelytics.ai/)
+
 ###### [TOC](#toc)
 ---
 **<a id="filings"></a>SEC FILINGS:**
